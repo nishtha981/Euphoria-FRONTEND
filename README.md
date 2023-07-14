@@ -1,2 +1,2 @@
-# react-website-v1-master
+# Fashion Website - Euphoria
  repo
